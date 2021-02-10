@@ -1,0 +1,5 @@
+name: Underground
+version: 1.0
+author: MINTY
+main: com.minty.leemonmc.underground.core.Underground
+load: startup

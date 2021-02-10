@@ -1,0 +1,47 @@
+points-goal: 3
+
+zones:
+  blue:
+    totem:
+      x: 84
+      y: 156
+      z: -5
+      x2: 80
+      y2: 164
+      z2: -9
+    base:
+      x: 90
+      y: 156
+      z: -10
+      x2: 77
+      y2: 164
+      z2: 15
+  red:
+    totem:
+      x: -10
+      y: 156
+      z: 8
+      x2: -6
+      y2: 164
+      z2: 12
+    base:
+      x: -15
+      y: 156
+      z: 15
+      x2: -3
+      y2: 168
+      z2: -13
+
+villagers:
+  red:
+    x: -9
+    y: 157
+    z: -3
+    yaw: 0
+    pitch: 0
+  blue:
+    x: 84
+    y: 157
+    z: 7
+    yaw: -179
+    pitch: 0
